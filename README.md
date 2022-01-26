@@ -22,4 +22,4 @@ Alternatively, the data can be directly downloaded from the sources listed below
 Data sources:
 * [RESTAURANT](https://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools)
 * [LAPTOP](https://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools)
-* [MAMS](https://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools)
+* [MAMS](https://github.com/siat-nlp/MAMS-for-ABSA/blob/master/data/MAMS-ACSA/raw/train.xml)
