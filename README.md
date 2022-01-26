@@ -1,5 +1,6 @@
 # Aspect-Based Sentiment Analysis using Auxiliary Questions: A Simplified Approach
 Author: Sabine Warringa
+Date: January 26th, 2022
 
 This is the code corresponding to the Natural Language Processing Assignment of the course Intelligent Systems at Universidad Politècnica de Madrid. It consists of a Jupyter Notebook `notebook.ipynb`, a `requirements.txt`, and a written report `report.pdf`. Moreover, data is required which is not uploaded due to copyright issues.
 
