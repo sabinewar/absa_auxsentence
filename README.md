@@ -9,6 +9,8 @@ The notebook itself contains all required actions to run the code, like installi
 ```
 directory
 |- notebook.ipynb
+|- README.md
+|- requirements.txt
 |- data
 |--- SemEval
 |------ restaurant_train.xlsx
