@@ -2,7 +2,7 @@
 Author: Sabine Warringa
 Date: January 26th, 2022
 
-This is the code corresponding to the Natural Language Processing Assignment of the course Intelligent Systems at Universidad Politècnica de Madrid. It consists of a Jupyter Notebook `notebook.ipynb`, a `requirements.txt`, and a written report `report.pdf`. Moreover, data is required which is not uploaded due to copyright issues.
+This is the code corresponding to the Natural Language Processing Assignment of the course Intelligent Systems at Universidad Politécnica de Madrid. It consists of a Jupyter Notebook `notebook.ipynb`, a `requirements.txt`, and a written report `report.pdf`. Moreover, data is required which is not uploaded due to copyright issues.
 
 ### Instructions on running `notebook.ipynb`
 The notebook itself contains all required actions to run the code, like installing `requirements.txt` and importing libraries. It is required to have the provided data in the same directory as the notebook, exactly as provided:
